@@ -31,7 +31,7 @@ My first dashboard project! Visualizes publication trends across time, country, 
 ---
 
 ## 📬 Let’s Connect!
-- 🔗 [LinkedIn](www.linkedin.com/in/bharat-kumar-bh)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bharat-kumar-bh)
 - 📧 Email: bharat12717@gmail.com
 - 🌐 Portfolio (coming soon)
 
