@@ -39,4 +39,4 @@ My first dashboard project! Visualizes publication trends across time, country, 
 
 > “Data is the new oil, but insight is the spark plug.”
 
-Thanks for visiting! ⭐ If you find my work interesting, feel free to follow or connect!
+Thanks for visiting! ⭐ If you find my work interesting, feel free to follow or connect! 
