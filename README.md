@@ -8,6 +8,9 @@ I’m a data-driven professional with 6+ years of experience in transforming raw
 
 ## 🚀 My Featured Projects
 
+### 🧹 [CSV Cleaner App (Streamlit)](https://github.com/bharat1271/csv-cleaner-app)
+A no-code web app built with Streamlit that lets users clean messy CSV files instantly. Supports trimming, deduplication, case fixing, filling missing values, splitting columns, and more — all via a user-friendly interface with live previews and download support.
+
 ### 📊 [Electric Vehicle Analysis Dashboard (Tableau)](https://github.com/bharat1271/electric-vehicle-analysis-dashboard)
 An interactive Tableau dashboard analyzing 150,000+ EV records in the U.S., highlighting trends by model, state, CAFV eligibility, and EV types.
 
