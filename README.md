@@ -14,15 +14,12 @@ I specialize in building audit-ready dashboards, data validation pipelines, and 
 A production-style Python + Streamlit web application designed to automate repetitive data-cleaning and text-processing tasks commonly encountered in QA and affiliation profiling workflows.
 
 **Key capabilities**:
-1.End-to-end flow: upload → clean → preview → download (with traceable logs)
 
-2. CSV operations: duplicate removal, whitespace trimming, case normalization, missing values, column splits, numeric conversion
-
-3. Text utilities: OrgID extraction & validation, duplicate detection, Name–ID pairing, regex-based affiliation & group ID extraction
-
-4. OCR module for extracting structured text from screenshots and scanned content
-
-5. Iterative evolution from CLI → GUI → Web for usability across non-technical users
+- End-to-end flow: upload → clean → preview → download (with traceable logs)
+- CSV operations: duplicate removal, whitespace trimming, case normalization, missing values, column splits, numeric conversion
+- Text utilities: OrgID extraction & validation, duplicate detection, Name–ID pairing, regex-based affiliation & group ID extraction
+- OCR module for extracting structured text from screenshots and scanned content
+- Iterative evolution from CLI → GUI → Web for usability across non-technical users
 
 Built to reduce manual QA effort, minimize copy-paste errors, and standardize data validation at scale.
 
